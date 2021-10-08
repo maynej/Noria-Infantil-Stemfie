@@ -1,17 +1,18 @@
-# Carrousel-Stemfie
-# GuepardBot <img src="Imatges/!Carrousel.jpg" width="50" />
+# Carrousel-Stemfie  <img src="Imatges/UnderConstruction.png" width="50" />
 
-Carrousel STEMFIE  
+# Carrousel <img src="Imatges/!Carrousel.jpg" width="50" />
 
-Iniciat per [Artur Binefa](https://github.com/enginy3D) de enginy 3D <img src="Imatges/Enginy3D.png" width="50" /> amb Freecad, i realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
+Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie.
+
+Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
 STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://stemfie.org) <img src="Imatges/LogoSTEMFIE.png" width="100" />
 
-<img src="Imatges/GuepardBotArtur2.jpg" width="300" />
+[Electronics Suports amb compatibilitat Stemfie](https://github.com/maynej/Electronics-Stemfie), pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP... 
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/GuepardBot/tree/main/DOC).
+Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Carrousel/tree/main/Doc).
 
-STL per imprimir [aquí](https://github.com/maynej/GuepardBot/tree/main/STL).
+STL per imprimir [aquí](https://github.com/maynej/Carrousel).
 
 ## Suports 3D
   

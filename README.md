@@ -13,7 +13,10 @@ STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://ste
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Carrousel/tree/main/Doc).
 
-STL per imprimir [aquí](https://github.com/maynej/Carrousel/tree/main/STL).
+STL per imprimir la Cabina [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Cabin).
+STL per imprimir la Roda [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Wheel).
+STL per imprimir la Base [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Base).
+
 
 ## Carrousel 3D
   

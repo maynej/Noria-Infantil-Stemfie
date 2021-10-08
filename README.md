@@ -15,7 +15,7 @@ Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Carrousel
 
 STL per imprimir [aquí](https://github.com/maynej/Carrousel/tree/main/STL).
 
-## Suports 3D
+## Carrousel 3D
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 

@@ -1,6 +1,5 @@
 # Carrousel-Stemfie  <img src="Imatges/UnderConstruction.png" width="50" />
 
-# Carrousel <img src="Imatges/!Carrousel.jpg" width="50" />
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie.
 
@@ -10,11 +9,16 @@ STEMFIE es un projecte de construcció lliure, que s'imprimeix en 3D (http://ste
 
 [Electronics Suports amb compatibilitat Stemfie](https://github.com/maynej/Electronics-Stemfie), pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP... 
 
+<img src="Imatges/Carrousel.jpg" width="500" />
+
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Carrousel/tree/main/Doc).
 
-STL per imprimir [aquí](https://github.com/maynej/Carrousel).
+STL per imprimir la Cabina [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Cabin).
+STL per imprimir la Roda [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Wheel).
+STL per imprimir la Base [aquí](https://github.com/maynej/GuepardBot/tree/main/STL/Base).
 
-## Suports 3D
+
+## Carrousel 3D
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 

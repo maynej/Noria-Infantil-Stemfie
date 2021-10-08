@@ -1,6 +1,6 @@
 # Carrousel-Stemfie  <img src="Imatges/UnderConstruction.png" width="50" />
 
-# Carrousel <img src="Imatges/Carrousel.jpg" width="50" />
+# Carrousel <img src="Imatges/Carrousel.jpg" width="200" />
 
 Electronics Stemfie es una llibreria STL de suports per tarjes de control, sensors i actuadors amb compatibilitat Stemfie.
 

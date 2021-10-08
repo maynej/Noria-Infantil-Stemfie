@@ -26,14 +26,10 @@ STL per imprimir la Base [aquí](https://github.com/maynej/Carrousel/tree/main/S
   
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Biga 22 |![](Imatges/GUEPARDBOT4.png) | [Biga 22](STL/Beam22.stl)
-Biga 6 |![](Imatges/GUEPARDBOT5.png) | [Biga 6](STL/Beam1x1x6.stl)
-Biga 4 |![](Imatges/GUEPARDBOT6.png) | [Biga 4](STL/Beam1x1x4.stl)
-Tensor 4 |![](Imatges/GUEPARDBOT7.png) | [Tensor 4](STL/BraceSTR_ERR_BU04x01x00.25-SPN-BRC-0003.stl)
+Tensor 7 |![](Imatges/Tensor7.png) | [Tensor 4](STL/Brace7-SPN-BRC-0006_x12.stl)
 Femella |![](Imatges/GUEPARDBOT8.png) | [Femella](STL/NutRH_BU01.00x5mm-SPN-NUT-0001.stl)
 Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/ShoulderScrewRHD_RH_BU00.50-SPN-SSC-0042.stl)
 Cargol BU00.75 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/ShoulderScrewRHD_RH_BU00.75-SPN-SSC-0043.stl)
-Cargol BU01.25 |![](Imatges/BU01.25.png) | [Cargol BU01.25](STL/ShoulderScrewRHD_RH_BU01.25-SPN-SSC-0045.stl)
 Volandera |![](Imatges/Washer.png) | [Volandera](STL/NutRHBU01.00x5mm-SPN-NUT-0001.stl)
 
 ## Roda 

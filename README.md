@@ -27,7 +27,7 @@ STL per imprimir la Base [aquí](https://github.com/maynej/Carrousel-Stemfie/tre
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
 Tensor 7 |![](Imatges/Tensor7.png) | [Tensor 4](STL/Brace7-SPN-BRC-0006_x12.stl)
-Femella |![](Imatges/GUEPARDBOT8.png) | [Femella](STL/NutRH_BU01.00x5mm-SPN-NUT-0001.stl)
+Femella |![](Imatges/Femella.png) | [Femella](STL/NutRH_BU01.00x5mm-SPN-NUT-0001.stl)
 Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/ShoulderScrewRHD_RH_BU00.50-SPN-SSC-0042.stl)
 Cargol BU00.75 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/ShoulderScrewRHD_RH_BU00.75-SPN-SSC-0043.stl)
 Volandera |![](Imatges/Washer.png) | [Volandera](STL/NutRHBU01.00x5mm-SPN-NUT-0001.stl)

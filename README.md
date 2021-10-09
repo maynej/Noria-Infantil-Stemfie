@@ -60,11 +60,18 @@ Volandera 10mm | 12  |![](Imatges/Volandera10.png) | [Volandera 12 mm](STL/Washe
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
-Tensor 7 |![](Imatges/Tensor7.png) | [Tensor 7](STL/Brace7-SPN-BRC-0006_x12.stl)
-Femella |![](Imatges/Femella.png) | [Femella](STL/NutRH-BU01.00x5mm_x144.stl)
-Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/ShoulderScrewRHD_RH_BU00.50-SPN-SSC-0042.stl)
-Cargol BU00.75 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/ShoulderScrewRHD_RH_BU00.75-SPN-SSC-0043.stl)
-Volandera |![](Imatges/Washer.png) | [Volandera](STL/Washer-FRE-BU01.00x00.25_x24.stl)
+Biga 12 | 8 |![](Imatges/Biga12.png) | [Tensor 12](STL/Beam_12_x8.stl)
+Tensor 4 | 10  |![](Imatges/Tensor4.png) | [Tensor 4](STL/Brace_4_STR_ERR_BU04x01x00.25_x10.stl)
+Tensor 12 | 4  |![](Imatges/Tensor12.png) | [Tensor 12](STL/Brace_12_STR_ERR_BU12x01x00.25x4.stl)
+Tensor 13 | 4  |![](Imatges/Tensor13.png) | [Tensor 13](STL/Brace_13_STR_ERR_BU13x01x00.25_x4.stl)
+Femella | 44 |![](Imatges/Femella.png) | [Femella](STL/NutRH-BU01.00x5mm_x44.stl)
+Cargol BU00.50 | 8  |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/Screw_RHD_RH_BU00.50_x8.stl)
+Cargol BU01.25 | 12 |![](Imatges/BU01.25.png) | [Cargol BU01.25](STL/Screw_RHD_RH_BU01.25_x12.stl)
+Cargol BU01.50 | 16 |![](Imatges/BU01.50.png) | [Cargol BU01.50](STL/Screw_RHD_RH_BU01.50_x16.stl)
+Pin | 1  |![](Imatges/Pin163.png) | [Pin BU07.00](STL/Pin163.stl)
+Fixador | 1  |![](Imatges/Nut.png) | [Fixador](STL/Nut_PH_CL_BU1x5mm.stl)
+U | 4 |![](Imatges/U.png) | [U](STL/STR_STD_BRT_AZ_3_5_5_120_x4.stl)
+Volandera | 13  |![](Imatges/Washer.png) | [Volandera](STL/Washer_FRE_BU01.00x00.25_x13.stl)
 
 ## Llicència
 

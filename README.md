@@ -60,10 +60,10 @@ Volandera 10mm | 12  |![](Imatges/Volandera10.png) | [Volandera 12 mm](STL/Washe
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
-Biga 12 | 8 |![](Imatges/Biga12.png) | [Tensor 12](STL/Beam_12_x8.stl)
-Tensor 4 | 10  |![](Imatges/Tensor4.png) | [Tensor 4](STL/Brace_4_STR_ERR_BU04x01x00.25_x10.stl)
-Tensor 12 | 4  |![](Imatges/Tensor12.png) | [Tensor 12](STL/Brace_12_STR_ERR_BU12x01x00.25x4.stl)
-Tensor 13 | 4  |![](Imatges/Tensor13.png) | [Tensor 13](STL/Brace_13_STR_ERR_BU13x01x00.25_x4.stl)
+Biga 12 | 8 |![](Imatges/Biga12.png) | [Biga 12](STL/Beam_12_x8.stl)
+Tensor 4 | 10  |![](Imatges/Brace4.png) | [Tensor 4](STL/Brace_4_STR_ERR_BU04x01x00.25_x10.stl)
+Tensor 12 | 4  |![](Imatges/Brace12.png) | [Tensor 12](STL/Brace_12_STR_ERR_BU12x01x00.25x4.stl)
+Tensor 13 | 4  |![](Imatges/Brace13.png) | [Tensor 13](STL/Brace_13_STR_ERR_BU13x01x00.25_x4.stl)
 Femella | 44 |![](Imatges/Femella.png) | [Femella](STL/NutRH-BU01.00x5mm_x44.stl)
 Cargol BU00.50 | 8  |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/Screw_RHD_RH_BU00.50_x8.stl)
 Cargol BU01.25 | 12 |![](Imatges/BU01.25.png) | [Cargol BU01.25](STL/Screw_RHD_RH_BU01.25_x12.stl)

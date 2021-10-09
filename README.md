@@ -43,7 +43,7 @@ Volandera 5mm | 24 |![](Imatges/Washer.png) | [Volandera 5mm](STL/Cabin/Washer-F
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
-Tensor 11 | 24  |![](Imatges/Brace11.png) | [Tensor 11](STL/Wheel/Brace_11_STR ERR_x24.stl)
+Tensor 11 | 24  |![](Imatges/Brace11.png) | [Marc Cabina](STL/Wheel/Brace_11_STR ERR_x24.stl)
 Biga 6 | 3 |![](Imatges/Beam6.png) | [Biga 6](STL/Wheel/beam1x1x6_3.stl)
 Creu 9x9x9 | 2  |![](Imatges/Creu9x9.png) | [Creu](STL/Wheel/Cross_9x9x9_x2.stl)
 Femella | 63 |![](Imatges/Femella.png) | [Femella](STL/Wheel/Nut_RH_BU01.00x5mm_x39.stl)
@@ -60,7 +60,7 @@ Volandera 10mm | 12  |![](Imatges/Volandera10.png) | [Volandera 12 mm](STL/Wheel
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
-Biga 12 | 8 |![](Imatges/Biga12.png) | [Marc Cabina](STL/Base/Beam_12_x8.stl)
+Biga 12 | 8 |![](Imatges/Biga12.png) | [Biga 12](STL/Base/Beam_12_x8.stl)
 Tensor 4 | 10  |![](Imatges/Brace4.png) | [Tensor 4](STL/Base/Brace_4_STR_ERR_BU04x01x00.25_x10.stl)
 Tensor 12 | 4  |![](Imatges/Brace12.png) | [Tensor 12](STL/Base/Brace_12_STR_ERR_BU12x01x00.25x4.stl)
 Tensor 13 | 4  |![](Imatges/Brace13.png) | [Tensor 13](STL/Base/Brace_13_STR_ERR_BU13x01x00.25_x4.stl)

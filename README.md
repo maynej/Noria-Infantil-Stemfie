@@ -33,8 +33,8 @@ Cargol BU00.75 | 48 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/Cabin/Screw
 Escaire | 60 |![](Imatges/1L.png) | [Escaire](STL/Cabin/STR_STD_BRD_AY-1x1_90_x60.stl)
 Seient | 12 |![](Imatges/Seient.png) | [Seient](STL/Cabin/STR_STD_BRT-AYx1x3x1_x12.stl)
 Placa 3x3 | 12 |![](Imatges/Placa3x3.png) | [Placa 3x3](STL/Cabin/STR_STD_BRM_3x3_x12.stl)
-Placa 3x5 | 6 |![](Imatges/Placa3x5.png) | [Placa 3x5](STL/Cabin/STR_STD_BRM_5x3_x12.stl)
-Placa 3x7 | 6 |![](Imatges/Placa3x7.png) | [Placa 3x7](STL/Cabin/STR_STD_BRM_7x3_x12.stl)
+Placa 3x5 | 6 |![](Imatges/Placa3x5.png) | [Placa 3x5](STL/Cabin/STR_STD_BRM_5x3_x6.stl)
+Placa 3x7 | 6 |![](Imatges/Placa3x7.png) | [Placa 3x7](STL/Cabin/STR_STD_BRM_7x3_x6.stl)
 Volandera 5mm | 24 |![](Imatges/Washer.png) | [Volandera 5mm](STL/Cabin/Washer-FRE-BU01.00x00.25_x24.stl)
 
 ## Roda 

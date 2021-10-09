@@ -25,7 +25,7 @@ STL per imprimir la Base [aquí](https://github.com/maynej/Carrousel-Stemfie/tre
   
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | -----
-Tensor 7 | 12  |![](Imatges/Tensor7.png) | [Tensor 7](STL/Cabin/Brace7-SPN-BRC-0006_x12.stl)
+Tensor 7 | 12  |![](Imatges/Tensor7.png) | [Tensor 7](STL/Cabin/Brace_7-SPN-BRC-0006_x12.stl)
 Marc Cabina | 12 |![](Imatges/U5x5x5.png) | [Marc Cabina](STL/Cabin/STR_STD_BRT_AZ_5x5x5_x12.stl)
 Femella | 144 |![](Imatges/Femella.png) | [Femella](STL/Cabin/NutRH-BU01.00x5mm_x144.stl)
 Cargol BU00.50 | 96 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/ScrewRHD-RH-BU00.50_x96.stl)

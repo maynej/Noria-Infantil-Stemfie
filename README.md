@@ -23,8 +23,8 @@ STL per imprimir la Base [aquí](https://github.com/maynej/Carrousel-Stemfie/tre
 
 <img src="Imatges/Cabin5.jpg" width="400" />
   
-Descripció       | Quantitat | Imatge          | Arxiu         
-------------- | ------------- | ------------- 
+Descripció    | Quantitat     | Imatge          | Arxiu         
+------------- | ------------- | --------------- | -----
 Tensor 7 | 12  |![](Imatges/Tensor7.png) | [Tensor 7](STL/Brace7-SPN-BRC-0006_x12.stl)
 Marc Cabina | 12 |![](Imatges/U5x5x5.png) | [Marc Cabina](STL/STR_STD_BRT_AZ_5x5x5_x12.stl)
 Femella | 144 |![](Imatges/Femella.png) | [Femella](STL/NutRH-BU01.00x5mm_x144.stl)
@@ -32,9 +32,9 @@ Cargol BU00.50 | 96 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/ScrewRHD-RH
 Cargol BU00.75 | 48 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/Screw-RHD-RH-BU00.75_x32.stl)
 Escaire | 60 |![](Imatges/1L.png) | [Escaire](STL/STR_STD_BRD_AY-1x1_90_x60.stl)
 Seient | 12 |![](Imatges/Seient.png) | [Seient](STL/STR_STD_BRT-AYx1x3x1_x12.stl)
-Placa 3x3 | 12 |![](Imatges/Placa3x3.png) | [Escaire](STL/STR_STD_BRM_3x3_x12.stl)
-Placa 3x5 | 6 |![](Imatges/Placa3x5.png) | [Escaire](STL/STR_STD_BRM_5x3_x12.stl)
-Placa 3x7 | 6 |![](Imatges/Placa3x7.png) | [Escaire](STL/STR_STD_BRM_7x3_x12.stl)
+Placa 3x3 | 12 |![](Imatges/Placa3x3.png) | [Placa 3x3](STL/STR_STD_BRM_3x3_x12.stl)
+Placa 3x5 | 6 |![](Imatges/Placa3x5.png) | [Placa 3x5](STL/STR_STD_BRM_5x3_x12.stl)
+Placa 3x7 | 6 |![](Imatges/Placa3x7.png) | [Placa 3x7](STL/STR_STD_BRM_7x3_x12.stl)
 Volandera 5mm | 24 |![](Imatges/Washer.png) | [Volandera 5mm](STL/Washer-FRE-BU01.00x00.25_x24.stl)
 
 ## Roda 

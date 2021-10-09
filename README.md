@@ -25,7 +25,7 @@ STL per imprimir la Base [aquí](https://github.com/maynej/Carrousel-Stemfie/tre
   
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | -----
-Tensor 7 | 12  |![](Imatges/Tensor7.png) | [Marc Cabina](STL/Cabin/Brace_7-SPN-BRC-0006_x12.stl)
+Tensor 7 | 12  |![](Imatges/Tensor7.png) | [Tensor 7](STL/Cabin/Brace_7-SPN-BRC-0006_x12.stl)
 Marc Cabina | 12 |![](Imatges/U5x5x5.png) | [Marc Cabina](STL/Cabin/STR_STD_BRT_AZ_5x5x5_x12.stl)
 Femella | 144 |![](Imatges/Femella.png) | [Femella](STL/Cabin/NutRH-BU01.00x5mm_x144.stl)
 Cargol BU00.50 | 96 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/Cabin/ScrewRHD-RH-BU00.50_x96.stl)
@@ -60,7 +60,7 @@ Volandera 10mm | 12  |![](Imatges/Volandera10.png) | [Volandera 12 mm](STL/Wheel
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
-Biga 12 | 8 |![](Imatges/Biga12.png) | [Biga 12](STL/Base/Beam_12_x8.stl)
+Biga 12 | 8 |![](Imatges/Biga12.png) | [Marc Cabina](STL/Base/Beam_12_x8.stl)
 Tensor 4 | 10  |![](Imatges/Brace4.png) | [Tensor 4](STL/Base/Brace_4_STR_ERR_BU04x01x00.25_x10.stl)
 Tensor 12 | 4  |![](Imatges/Brace12.png) | [Tensor 12](STL/Base/Brace_12_STR_ERR_BU12x01x00.25x4.stl)
 Tensor 13 | 4  |![](Imatges/Brace13.png) | [Tensor 13](STL/Base/Brace_13_STR_ERR_BU13x01x00.25_x4.stl)

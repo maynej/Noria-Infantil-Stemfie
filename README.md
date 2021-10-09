@@ -51,7 +51,7 @@ Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/Screw_RHD_RH_BU0
 Cargol BU00.75 |![](Imatges/BU00.75.png) | [Cargol BU00.75](STL/Screw_RHD_RH_BU00.75_x12.stl)
 Cargol BU06.50 |![](Imatges/BU06.50.png) | [Cargol BU06.50](STL/Screw_RHD_RH_BU06.50_x3.stl)
 Pin |![](Imatges/PinBU07.00.png) | [Pin BU07.00](STL/Pin_CL_RHD_BU07.00_x6.stl)
-Volandera 12mm |![](Imatges/Washer.png) | [Volandera 12 mm](STL/Washer10mm_12.stl)
+Volandera 12mm |![](Imatges/Volandera12.png) | [Volandera 12 mm](STL/Washer10mm_12.stl)
 
 ## Base 
 

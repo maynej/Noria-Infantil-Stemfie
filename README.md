@@ -43,8 +43,8 @@ Volandera 5mm |![](Imatges/Washer.png) | [Volandera 5mm](STL/Washer-FRE-BU01.00x
 
 Descripció         | Imatge          | Arxiu         
 ------------- | ------------- | ------------- 
-Tensor 11 |![](Imatges/Tensor11.png) | [Tensor 11](STL/Brace_11-STR-ERR_x24.stl)
-Biga 6 |![](Imatges/Biga11.png) | [Biga 6](STL/beam1x1x6_3.stl)
+Tensor 11 |![](Imatges/Brace11.png) | [Tensor 11](STL/Brace_11-STR-ERR_x24.stl)
+Biga 6 |![](Imatges/Beam6.png) | [Biga 6](STL/beam1x1x6_3.stl)
 Creu 9x9x9 |![](Imatges/Creu9x9.png) | [Creu](STL/Cross_9x9x9_x2.stl)
 Femella |![](Imatges/Femella.png) | [Femella](STL/Nut_RH_BU01.00x5mm_x39.stl)
 Cargol BU00.50 |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/Screw_RHD_RH_BU00.50_x24.stl)

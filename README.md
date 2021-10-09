@@ -60,7 +60,7 @@ Volandera 10mm | 12  |![](Imatges/Volandera10.png) | [Volandera 12 mm](STL/Wheel
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
-Biga 12 | 8 |![](Imatges/Biga12.png) | [Biga 12](STL/Base/Beam_12_x8.stl)
+Biga 12 | 8 |![](Imatges/Biga12.png) | [Biga 12] (STL/Base/Beam_12_x8.stl)
 Tensor 4 | 10  |![](Imatges/Brace4.png) | [Tensor 4](STL/Base/Brace_4_STR_ERR_BU04x01x00.25_x10.stl)
 Tensor 12 | 4  |![](Imatges/Brace12.png) | [Tensor 12](STL/Base/Brace_12_STR_ERR_BU12x01x00.25x4.stl)
 Tensor 13 | 4  |![](Imatges/Brace13.png) | [Tensor 13](STL/Base/Brace_13_STR_ERR_BU13x01x00.25_x4.stl)

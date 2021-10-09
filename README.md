@@ -43,7 +43,7 @@ Volandera 5mm | 24 |![](Imatges/Washer.png) | [Volandera 5mm](STL/Cabin/Washer-F
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
-Tensor 11 | 24  |![](Imatges/Brace11.png) | [Tensor 11](STL/Wheel/Brace_11-STR-ERR_x24.stl)
+Tensor 11 | 24  |![](Imatges/Brace11.png) | [Tensor 11](STL/Wheel/Brace_11_STR ERR_x24.stl)
 Biga 6 | 3 |![](Imatges/Beam6.png) | [Biga 6](STL/Wheel/beam1x1x6_3.stl)
 Creu 9x9x9 | 2  |![](Imatges/Creu9x9.png) | [Creu](STL/Wheel/Cross_9x9x9_x2.stl)
 Femella | 63 |![](Imatges/Femella.png) | [Femella](STL/Wheel/Nut_RH_BU01.00x5mm_x39.stl)

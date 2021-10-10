@@ -73,6 +73,11 @@ Fixador | 1  |![](Imatges/Nut.png) | [Fixador](STL/Base/Nut_PH_CL_BU1x5mm_x1.stl
 U | 4 |![](Imatges/U.png) | [U](STL/Base/STR_STD_BRT_AZ_3_5_5_120_x4.stl)
 Volandera | 13  |![](Imatges/Washer.png) | [Volandera](STL/Base/Washer_FRE_BU01.00x00.25_x13.stl)
 
+## Mesurador Stemfie 
+
+<img src="Imatges/MesuradorStemfie2.jpg" width="100" />
+
+
 ## Llicència
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />

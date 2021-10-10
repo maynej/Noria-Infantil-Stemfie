@@ -68,7 +68,7 @@ Femella | 44 |![](Imatges/Femella.png) | [Femella](STL/Base/Nut_RH_BU01.00x5mm_x
 Cargol BU00.50 | 8  |![](Imatges/BU00.50.png) | [Cargol BU00.50](STL/Base/Screw_RHD_RH_BU00.50_x8.stl)
 Cargol BU01.25 | 12 |![](Imatges/BU01.25.png) | [Cargol BU01.25](STL/Base/Screw_RHD_RH_BU01.25_x12.stl)
 Cargol BU01.50 | 16 |![](Imatges/Cargol01.50.png) | [Cargol BU01.50](STL/Base/Screw_RHD_RH_BU01.50_x16.stl)
-Pin | 1  |![](Imatges/Pin163.png) | [Pin BU07.00](STL/Base/Pin163.stl)
+Pin | 1  |![](Imatges/Pin166.png) | [Pin Eix](STL/Base/Pin166.stl)
 Fixador | 1  |![](Imatges/Nut.png) | [Fixador](STL/Base/Nut_PH_CL_BU1x5mm_x1.stl)
 U | 4 |![](Imatges/U.png) | [U](STL/Base/STR_STD_BRT_AZ_3_5_5_120_x4.stl)
 Volandera | 13  |![](Imatges/Washer.png) | [Volandera](STL/Base/Washer_FRE_BU01.00x00.25_x13.stl)

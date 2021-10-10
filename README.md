@@ -77,6 +77,9 @@ Volandera | 13  |![](Imatges/Washer.png) | [Volandera](STL/Base/Washer_FRE_BU01.
 
 <img src="Imatges/MesuradorStemfie2.jpg" width="100" />
 
+Descripció    | Arxiu         
+------------- | ----- 
+Mesurador Stemfie | (STL/MesuraStemfie2.stl)
 
 ## Llicència
 

@@ -1,4 +1,4 @@
-# Carrousel-Stemfie  <img src="Imatges/UnderConstruction.png" width="50" />
+# Carrousel Stemfie  
 
 <img src="Imatges/Carrousel.jpg" width="500" />
 

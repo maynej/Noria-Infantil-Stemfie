@@ -39,7 +39,7 @@ Volandera 5mm | 24 |![](Imatges/Washer.png) | [Volandera 5mm](STL/Cabin/Washer-F
 
 ## Roda 
 
-<img src="Imatges/Wheel1.jpg" width="400" />
+<img src="Imatges/Wheel8.jpg" width="400" />
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
@@ -56,7 +56,7 @@ Volandera 10mm | 12  |![](Imatges/Volandera10.png) | [Volandera 12 mm](STL/Wheel
 
 ## Base 
 
-<img src="Imatges/Base1.jpg" width="400" />
+<img src="Imatges/Base4.jpg" width="400" />
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 

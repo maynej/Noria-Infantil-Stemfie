@@ -1,4 +1,4 @@
-# Carrousel Stemfie  
+# Nòria Infantil Stemfie  
 
 <img src="Imatges/Carrousel.jpg" width="500" />
 

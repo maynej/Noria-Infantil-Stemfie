@@ -79,9 +79,9 @@ Volandera | 13  |![](Imatges/Washer.png) | [Volandera](STL/Base/Washer_FRE_BU01.
 
 Descripció    | Quantitat     | Imatge          | Arxiu         
 ------------- | ------------- | --------------- | ----- 
-Femella | 5 |![](Imatges/Femella.png) | [Femella](STL/Control/Nut RH BU01.00x5mm_x5.stl)
+Femella | 2 |![](Imatges/Femella.png) | [Femella](STL/Control/Nut_RH_BU01.00x5mm_x2.stl)
 Cargol BU01.50 | 5 |![](Imatges/Cargol01.50.png) | [Cargol BU01.50](STL/Control/Screw_RHD_RH_BU01.50_x5.stl)
-CPU suport | 1 |![](Imatges/CPU.png) | [Cargol BU01.50](STL/Control/CPU.stl)
+CPU suport | 1 |![](Imatges/CPU.png) | [Cargol BU01.50](STL/Control/CPUEscornaStemfie_x1.stl)
 Volandera | 2  |![](Imatges/Washer.png) | [Volandera](STL/Control/Washer_FRE_BU01.00x00.25_x2.stl)
 Engranatge motor | 1  |![](Imatges/Gear1.png) | [Engranatge motor](STL/Control/Gear_28BYJ-48_x1.stl)
 Engranatge 40 |  1  |![](Imatges/Gear40.png) | [Engranatge 40](STL/Control/IGE_0.5_40_M2,5_x1.stl)

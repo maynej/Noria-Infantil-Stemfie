@@ -73,6 +73,20 @@ Fixador | 1  |![](Imatges/Nut.png) | [Fixador](STL/Base/Nut_PH_CL_BU1x5mm_x1.stl
 U | 4 |![](Imatges/U.png) | [U](STL/Base/STR_STD_BRT_AZ_3_5_5_120_x4.stl)
 Volandera | 13  |![](Imatges/Washer.png) | [Volandera](STL/Base/Washer_FRE_BU01.00x00.25_x13.stl)
 
+## Control 
+
+<img src="Imatges/Control1.jpg" width="200" /> <img src="Imatges/Control3.png" width="200" />
+
+Descripció    | Quantitat     | Imatge          | Arxiu         
+------------- | ------------- | --------------- | ----- 
+Femella | 5 |![](Imatges/Femella.png) | [Femella](STL/Control/Nut RH BU01.00x5mm_x5.stl)
+Cargol BU01.50 | 5 |![](Imatges/Cargol01.50.png) | [Cargol BU01.50](STL/Control/Screw_RHD_RH_BU01.50_x5.stl)
+CPU suport | 5 |![](Imatges/CPU.png) | [Cargol BU01.50](STL/Control/CPU.stl)
+Volandera | 13  |![](Imatges/Washer.png) | [Volandera](STL/Control/Washer_FRE_BU01.00x00.25_x2.stl)
+Engranatge motor | 1  |![](Imatges/Gear_motor.png) | [Engranatge motor](STL/Gear_28BYJ-48_x1.stl)
+Engranatge 40 | 1  |![](Imatges/Gear_40.png) | [Engranatge 40](STL/Control/IGE_0.5_40_M2,5_x1.stl)
+Suport motor | 1  |![](Imatges/Motor.png) | [Suport motor](STL/28BYJ-48_4H_x1.stl)
+
 ## Mesurador Stemfie 
 
 <img src="Imatges/MesuradorStemfie2.jpg" width="100" />

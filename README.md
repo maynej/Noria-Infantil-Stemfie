@@ -10,7 +10,7 @@ Electronics Stemfie es una llibreria STL de suports per tarjes de control, senso
 
 [Electronics Suports amb compatibilitat Stemfie](https://github.com/maynej/Electronics-Stemfie), pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP... 
 
-Tota la [documentació es pot trobar en PDF] (Català - Castellà - Anglés) (https://github.com/maynej/Carrousel-Stemfie/tree/main/Doc). 
+Tota la [documentació es pot trobar en PDF] Català - Castellà - Anglés (https://github.com/maynej/Carrousel-Stemfie/tree/main/Doc). 
 
 STL per imprimir la Cabina [aquí](https://github.com/maynej/Carrousel-Stemfie/tree/main/STL/Cabin)
 

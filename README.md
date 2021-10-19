@@ -10,7 +10,7 @@ Electronics Stemfie es una llibreria STL de suports per tarjes de control, senso
 
 [Electronics Suports amb compatibilitat Stemfie](https://github.com/maynej/Electronics-Stemfie), pretén facilitar l'automatització de les construccions amb targes Arduino, Microbit, ESP... 
 
-Tota la [documentació es pot trobar en PDF](https://github.com/maynej/Carrousel-Stemfie/tree/main/Doc).
+Tota la [documentació es pot trobar en PDF] (Català - Castellà - Anglés) (https://github.com/maynej/Carrousel-Stemfie/tree/main/Doc). 
 
 STL per imprimir la Cabina [aquí](https://github.com/maynej/Carrousel-Stemfie/tree/main/STL/Cabin)
 
@@ -82,7 +82,7 @@ Descripció    | Quantitat     | Imatge          | Arxiu
 Femella | 5 |![](Imatges/Femella.png) | [Femella](STL/Control/Nut_RH_BU01.00x5mm_x2.stl)
 Cargol BU01.50 | 5 |![](Imatges/Cargol01.50.png) | [Cargol BU01.50](STL/Control/Screw_RHD_RH_BU01.50_x5.stl)
 CPU suport | 1 |![](Imatges/CPU.png) | [CPU Suport](STL/Control/CPUEscornaStemfie_x1.stl)
-Volandera | 2  |![](Imatges/Washer.png) | [Volandera](STL/Control/Washer_FRE_BU01.00x00.25_x2.stl)
+Volandera | 2  |![](Imatges/Washer2.5mm.png) | [Volandera](STL/Control/Washer_FRE_2.5mmx2.stl)
 Engranatge motor | 1  |![](Imatges/Gear1.png) | [Engranatge motor](STL/Control/Gear_28BYJ-48_x1.stl)
 Engranatge 40 |  1  |![](Imatges/Gear40.png) | [Engranatge 40](STL/Control/IGE_0.5_40_M2,5_x1.stl)
 Suport motor |  1  |![](Imatges/Motor.png) | [Suport motor](STL/Control/28BYJ-48_4H_x1.stl)
